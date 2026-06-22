@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mukundauti3/LEETCODE/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/mukundauti3/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0049-group-anagrams](https://github.com/mukundauti3/LEETCODE/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
@@ -19,4 +20,12 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/mukundauti3/LEETCODE/tree/master/0049-group-anagrams) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mukundauti3/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mukundauti3/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
