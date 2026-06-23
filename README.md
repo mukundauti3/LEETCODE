@@ -32,4 +32,8 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mukundauti3/LEETCODE/tree/master/0009-palindrome-number) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/mukundauti3/LEETCODE/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
