@@ -15,6 +15,7 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mukundauti3/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/mukundauti3/LEETCODE/tree/master/0049-group-anagrams) |
 ## Sorting
 |  |
@@ -39,4 +40,12 @@
 | [0577-employee-bonus](https://github.com/mukundauti3/LEETCODE/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/mukundauti3/LEETCODE/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/mukundauti3/LEETCODE/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mukundauti3/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mukundauti3/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
