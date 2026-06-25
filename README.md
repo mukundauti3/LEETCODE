@@ -12,12 +12,14 @@
 | ------- |
 | [0001-two-sum](https://github.com/mukundauti3/LEETCODE/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/mukundauti3/LEETCODE/tree/master/0049-group-anagrams) |
+| [0383-ransom-note](https://github.com/mukundauti3/LEETCODE/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/mukundauti3/LEETCODE/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mukundauti3/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/mukundauti3/LEETCODE/tree/master/0049-group-anagrams) |
+| [0383-ransom-note](https://github.com/mukundauti3/LEETCODE/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/mukundauti3/LEETCODE/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
@@ -55,4 +57,8 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/mukundauti3/LEETCODE/tree/master/0389-find-the-difference) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/mukundauti3/LEETCODE/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
