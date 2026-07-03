@@ -19,6 +19,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mukundauti3/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/mukundauti3/LEETCODE/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/mukundauti3/LEETCODE/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/mukundauti3/LEETCODE/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mukundauti3/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/mukundauti3/LEETCODE/tree/master/0383-ransom-note) |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mukundauti3/LEETCODE/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/mukundauti3/LEETCODE/tree/master/0067-add-binary) |
 ## Database
 |  |
 | ------- |
@@ -60,9 +62,14 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/mukundauti3/LEETCODE/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/mukundauti3/LEETCODE/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/mukundauti3/LEETCODE/tree/master/0383-ransom-note) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/mukundauti3/LEETCODE/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
